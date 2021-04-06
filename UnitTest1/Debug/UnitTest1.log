@@ -1,0 +1,6 @@
+﻿  UnitTest1.cpp
+     Создается библиотека C:\Універ\Лабораторні\ООП\OOPLab 3.1\Debug\UnitTest1.lib и объект C:\Універ\Лабораторні\ООП\OOPLab 3.1\Debug\UnitTest1.exp
+UnitTest1.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall Man::Man(void)" (??0Man@@QAE@XZ) в функции "public: void __thiscall UnitTest1::UnitTest1::TestMethod1(void)" (?TestMethod1@UnitTest1@1@QAEXXZ).
+UnitTest1.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall Student::Student(void)" (??0Student@@QAE@XZ) в функции "public: void __thiscall UnitTest1::UnitTest1::TestMethod1(void)" (?TestMethod1@UnitTest1@1@QAEXXZ).
+UnitTest1.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: int __thiscall Student::Kurs(int)" (?Kurs@Student@@QAEHH@Z) в функции "public: void __thiscall UnitTest1::UnitTest1::TestMethod1(void)" (?TestMethod1@UnitTest1@1@QAEXXZ).
+C:\Універ\Лабораторні\ООП\OOPLab 3.1\Debug\UnitTest1.dll : fatal error LNK1120: неразрешенных внешних элементов: 3
